@@ -54,24 +54,24 @@ My name is [**Sashanka krishna Somisetti**](www.linkedin.com/in/sashanka-krishna
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="60" height="60"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-plain.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="githubactions" **alt="githubactions" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="terraform" **alt="terraform" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="ansible" **alt="ansible" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins" **alt="jenkins" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="helm" **alt="helm" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="azuredevops" **alt="azuredevops" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" **alt="azure" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="amazonwebservices" **alt="amazonwebservices" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="eclipse" **alt="eclipse" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" **alt="selenium" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" **alt="jira" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" **alt="putty" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg" title="prometheus" **alt="prometheus" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" title="cucumber" **alt="cucumber" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="cmake" **alt="cmake" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-plain.svg" title="poetry" **alt="poetry" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg" title="sonarqube" **alt="sonarqube" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="60" height="60"/>
   
 </div>
 
