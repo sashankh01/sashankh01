@@ -47,7 +47,6 @@ My name is [**Sashanka krishna Somisetti**](www.linkedin.com/in/sashanka-krishna
 <div align=center>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes"  alt="Kubernetes" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="CMake" alt="CMake" width="60" height="60"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="60" height="60"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;  
@@ -62,7 +61,6 @@ My name is [**Sashanka krishna Somisetti**](www.linkedin.com/in/sashanka-krishna
   <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="GitHub" **alt="GitHub" width="60" height="60"/>
