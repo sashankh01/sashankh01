@@ -39,7 +39,7 @@ My name is [**Sashanka krishna Somisetti**](www.linkedin.com/in/sashanka-krishna
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg" title="Bash" alt="PowerShell" width="60" height="60"/>&nbsp;
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg" title="Bash" alt="PowerShell" width="80" height="60"/>&nbsp;
 </div>
 
 ## :hammer_and_wrench: Software tools
