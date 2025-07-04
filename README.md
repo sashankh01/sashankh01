@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Sashankh...;&center=true&size=25">
   </a>
-  <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="80" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ## Here’s the highlight reel of my life so far!..🧮💻🖱️
